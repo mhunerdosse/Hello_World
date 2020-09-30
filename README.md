@@ -1,2 +1,2 @@
 # Hello_World
-BAIS Pro Prep Seminar Intro
+BAIS Pro Prep Seminar Intro to GitHub.
